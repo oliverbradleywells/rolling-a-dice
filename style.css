@@ -1,0 +1,30 @@
+div {
+    display: inline-block;
+    width: 500px;
+    height: 500px;
+    background-repeat: no-repeat;
+}
+ 
+.side-1 {
+    background-image: url('side1.png');
+}
+ 
+.side-2 {
+    background-image: url('side2.png');
+}
+ 
+.side-3 {
+    background-image: url('side3.png');
+}
+ 
+.side-4 {
+    background-image: url('side4.png');
+}
+ 
+.side-5 {
+    background-image: url('side5.png');
+}
+ 
+.side-6 {
+    background-image: url('side6.png');
+}
